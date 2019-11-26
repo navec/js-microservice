@@ -1,5 +1,7 @@
 # JS-Microservice S
 
+<img src="back-archi.png"
+     alt="js-microservice"/>
 
 ## Run user module
 ```
