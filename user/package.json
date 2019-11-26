@@ -1,0 +1,17 @@
+{
+  "name": "user",
+  "version": "1.0.0",
+  "description": "User API",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js localhost 3000"
+  },
+  "author": "navec gael batchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
